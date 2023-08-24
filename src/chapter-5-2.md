@@ -1,5 +1,3 @@
-Boosting Employee Productivity with AI-Enabled Training and Knowledge Management
-====================================================================================================================================
 
 Small businesses often face challenges in training employees efficiently and managing knowledge effectively. However, with the help of AI-enabled training and knowledge management, small businesses can boost employee productivity and achieve greater success. In this chapter, we'll explore strategies for leveraging AI to enhance training and knowledge management in small businesses.
 

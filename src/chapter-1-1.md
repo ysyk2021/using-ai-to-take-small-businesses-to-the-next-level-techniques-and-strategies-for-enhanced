@@ -1,5 +1,3 @@
-The Role of AI in Enhancing Small Business Performance
-===============================================================================
 
 Artificial intelligence (AI) has become an increasingly important tool for businesses of all sizes, including small businesses. By leveraging the power of AI, small businesses can improve their operations, increase efficiency and productivity, and enhance customer engagement.
 

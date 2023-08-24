@@ -1,5 +1,3 @@
-Identifying Small Business Processes that can be Improved with AI
-========================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize small business operations and improve overall performance. However, it can be challenging to know where to start and which processes to focus on. In this chapter, we'll explore how to identify small business processes that can be improved with AI.
 

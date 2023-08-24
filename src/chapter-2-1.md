@@ -1,5 +1,3 @@
-Natural Language Processing (NLP) for Automated Customer Service and Feedback
-====================================================================================================================================================
 
 Artificial Intelligence (AI) technology can transform the way small businesses operate, enabling them to enhance performance and gain a competitive advantage. In this chapter, we'll explore Natural Language Processing (NLP), a type of AI technology that can automate customer service and feedback.
 

@@ -1,5 +1,3 @@
-Creating a Customized AI Roadmap for Small Business Enhancement
-======================================================================================================================
 
 Artificial intelligence (AI) offers significant potential for small businesses looking to enhance their performance and remain competitive in today's market. However, getting started with AI can be daunting, especially for small businesses with limited resources.
 

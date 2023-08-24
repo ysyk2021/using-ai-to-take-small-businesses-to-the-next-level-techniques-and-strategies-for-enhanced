@@ -1,5 +1,3 @@
-Chapter 6: AI Techniques for Small Business Optimization
-========================================================
 
 Artificial Intelligence (AI) technology can provide significant benefits to small businesses, allowing them to optimize processes and achieve their goals and objectives. In this chapter, we'll explore some of the key AI techniques that can help small businesses optimize performance, manage risk, and improve supply chain management.
 

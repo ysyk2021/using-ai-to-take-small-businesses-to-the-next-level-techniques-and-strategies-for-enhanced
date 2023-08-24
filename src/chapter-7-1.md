@@ -1,5 +1,3 @@
-Understanding the Tradeoffs of AI-Enhanced Small Business Performance
-==========================================================================================================================================
 
 Artificial intelligence (AI) offers significant benefits to small businesses, including increased productivity, efficiency, and revenue. However, it's important for small business owners to understand the potential tradeoffs of adopting AI technology in their operations.
 

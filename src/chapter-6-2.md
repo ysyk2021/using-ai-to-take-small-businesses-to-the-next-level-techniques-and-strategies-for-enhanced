@@ -1,5 +1,3 @@
-Risk Management with AI-Driven Fraud Detection and Prevention
-=======================================================================================================================
 
 Artificial Intelligence (AI) technology can provide significant benefits to small businesses, including helping them manage risk and prevent financial losses. In this chapter, we'll explore how AI-driven fraud detection and prevention can help small businesses achieve these goals.
 

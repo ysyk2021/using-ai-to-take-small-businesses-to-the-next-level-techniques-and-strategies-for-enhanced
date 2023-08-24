@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI for Small Business
-=====================================================
 
 Artificial Intelligence (AI) has the potential to transform small businesses, but it can be challenging to know where to start. In this chapter, we'll explore how to get started with AI for small business, including identifying processes that can be improved with AI, selecting AI tools and implementing them into workflows, and creating a customized AI roadmap for small business enhancement.
 

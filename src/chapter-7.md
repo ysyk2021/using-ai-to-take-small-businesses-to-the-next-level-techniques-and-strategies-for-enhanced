@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Small Business Operations
-===================================================================
 
 As small businesses increasingly adopt artificial intelligence (AI) technology to enhance their operations, it's important to evaluate the impact of AI on small business performance and understand the potential tradeoffs. In this chapter, we'll explore how small businesses can evaluate the impact of AI on their operations and balance automation with human expertise.
 
@@ -26,5 +24,4 @@ Conclusion
 ----------
 
 Evaluating the impact of AI on small business operations requires careful consideration of potential tradeoffs and a balanced approach to automation and human expertise. By identifying which tasks can be effectively automated with AI and which require human intervention, small businesses can optimize their operations and remain competitive in today's market. Use the insights and strategies outlined in this chapter to evaluate the impact of AI on your small business operations and make the best decision for your business.
-
 
