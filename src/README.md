@@ -10,3 +10,7 @@ In this book, we will explore the role of AI in enhancing small business perform
 Whether you're new to AI or have already adopted AI technology in your small business, this book will provide valuable insights, techniques, and strategies for taking your business to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
