@@ -1,5 +1,4 @@
-Chapter 6: Risk Management with AI-Driven Fraud Detection and Prevention
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," the importance of risk management cannot be overstated. This chapter delves into the critical role of AI-powered fraud detection and prevention in safeguarding small businesses from financial losses and reputational damage.
 

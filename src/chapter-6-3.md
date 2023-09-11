@@ -1,5 +1,4 @@
-Chapter 8: Inventory Management and Supply Chain Optimization with AI-Powered Forecasting and Analysis
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," effective inventory management and supply chain optimization play a pivotal role in achieving success. This chapter explores how AI-driven forecasting and analysis can revolutionize these critical aspects of small business operations.
 

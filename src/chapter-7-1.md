@@ -1,5 +1,4 @@
-Chapter 16: Understanding the Tradeoffs of AI-Enhanced Small Business Performance
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," it is crucial to grasp the tradeoffs associated with harnessing AI for small business performance improvement. This chapter explores the nuances and considerations involved in balancing the advantages and challenges of AI adoption.
 

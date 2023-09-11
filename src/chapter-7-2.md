@@ -1,5 +1,4 @@
-Chapter 17: Balancing Automation with Human Expertise
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," finding the right equilibrium between automation and human expertise is a critical factor in achieving optimal performance. This chapter explores the art of harmonizing artificial intelligence with human capabilities in small business operations.
 

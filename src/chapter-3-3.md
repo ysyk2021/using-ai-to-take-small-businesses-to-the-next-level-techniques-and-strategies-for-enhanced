@@ -1,5 +1,4 @@
-Chapter 19: Creating a Customized AI Roadmap for Small Business Enhancement
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," the path to success often begins with crafting a tailored AI roadmap. This chapter explores the essential steps and considerations for creating a customized AI roadmap that aligns with the unique goals and needs of small businesses seeking enhancement.
 

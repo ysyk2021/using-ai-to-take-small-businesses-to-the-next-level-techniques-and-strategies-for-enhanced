@@ -1,5 +1,4 @@
-Chapter 14: Machine Learning for Predictive Analytics and Decision-Making
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," machine learning emerges as a pivotal tool for predictive analytics and informed decision-making. This chapter explores how machine learning can empower small businesses to make data-driven decisions and gain a competitive edge.
 

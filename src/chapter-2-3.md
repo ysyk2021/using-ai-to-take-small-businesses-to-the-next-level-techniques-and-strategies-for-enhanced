@@ -1,5 +1,4 @@
-Chapter 13: Robotic Process Automation (RPA) for Process Optimization and Efficiency
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Using AI to Take Small Businesses to the Next Level: Techniques and Strategies for Enhanced Performance," Robotic Process Automation (RPA) emerges as a transformative tool for optimizing processes and enhancing efficiency. This chapter explores how RPA can revolutionize operations for small businesses.
 
